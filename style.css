@@ -1,0 +1,16 @@
+img {
+  margin: 10px;
+  width: 18rem;
+  height: 9em;
+  object-fit: contain;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+#getCountryData {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
